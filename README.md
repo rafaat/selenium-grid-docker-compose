@@ -1,4 +1,4 @@
-#selenium-grid-docker-compose
+# selenium-grid-docker-compose
 
 **Requirements**
 - docker
